@@ -21,7 +21,7 @@ jobs:
 
       - name: Add upstream remote
         run: |
-          git remote add upstream https://github.com/yw88075/tvbox.git
+          git remote add upstream https://github.com/2hacc/TVBox
 
       - name: Fetch upstream changes
         run: |
